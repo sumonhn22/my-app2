@@ -1,0 +1,31 @@
+
+span {
+    font-weight: bold;
+    background: lightgray;
+    padding: .3em .8em;
+    cursor: pointer;
+    user-select: none;
+}
+
+.play-container1{
+    padding: 3em;
+     margin-bottom: 1em;
+    margin-right: 50%;
+}
+
+.play-container{
+    padding: 3em;
+        margin-left: 50%;
+
+    input {
+        padding: 1em;
+        margin-bottom: 2em;
+    }
+}
+
+#circle
+{
+border-radius:100%;  
+width:200px;
+height:200px;
+}
